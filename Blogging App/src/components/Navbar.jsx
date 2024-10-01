@@ -45,7 +45,6 @@ const Navbar = () => {
     </div>
 
     {/* Menu Links */}
-    {/* Menu Links */}
     <div className="hidden md:flex justify-end gap-8 items-center">
       <h5 className="hover:text-black transition duration-300">
         <Link to="/">Home</Link>
